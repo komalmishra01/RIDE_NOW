@@ -44,7 +44,7 @@ RideNow is a dynamic and responsive PHP-based web application designed for onlin
 - MySQL (Database)
 - HTML, CSS (Frontend)
 - Bootstrap (Responsive UI)
-- JavaScript + AJAX (Dynamic features)
+- Javaquery + AJAX (Dynamic features)
 
 ---
 
